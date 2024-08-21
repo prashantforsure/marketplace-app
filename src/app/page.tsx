@@ -4,12 +4,6 @@ import { Button } from "@/components/ui/button"
 
 import ItemCard from "@/components/ItemCard";
 
-// const items = [
-//   { src: '../../public/', title: 'Video 1' },
-//   { src: '../../public/', title: 'Video 2' },
-//   { src: '../../public/', title: 'Video 3' },
-//   { src: '../../public/', title: 'Video 4' },
-// ];
 
 const items = [
   { imageSrc: '/image1.jpg', itemName: 'Video Templates' },
