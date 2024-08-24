@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import MaxWidthWrapper from './maxWrapper'
+import MaxWidthWrapper from './MaxWidthWrapper'
 import { Icons } from './Icons'
 import { Bird } from 'lucide-react'
 
